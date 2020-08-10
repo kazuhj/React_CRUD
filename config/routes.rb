@@ -1,4 +1,9 @@
 Rails.application.routes.draw do
+  root 'react_crud_data#index'
+
   get 'react_crud_data/index'
-  # For details on the DSL available within this file, see https://guides.rubyonrails.org/routing.html
+  get 'react_crud_data/new', to: 'react_crud_data#new', as: 'new_react_crud_data'
+  post 'react_crud_data', to: 'react_crud_data#create'
+  put 'react_crud_data/:id', to: 'react_crud_data#update'
+  delete 'react_crud_data/:id', to: 'react_crud_data#destroy'
 end
