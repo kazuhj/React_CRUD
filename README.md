@@ -5,6 +5,12 @@
 ## アプリケーション概要
 SPA(Single Page Application)となっており、１ページにてコメントのコメントの登録・編集・削除ができるアプリです。
 
+<img width="1429" alt="reacr-crud samme" src="https://user-images.githubusercontent.com/57065520/90216802-89d30980-de3a-11ea-992c-bddc367bc20b.png">
+
+## 【GIF動画】
+https://i.gyazo.com/1cb2ee513f9b450d6d1f42d0e0f24b5f.gif
+
+
 ## 制作背景(意図)
 オリジナルアプリ制作前にRailsとReactを組み合わせたアプリの制作を経験したいと考え、とあるサイトの解説を確認しつつ制作しました。
 今回は「gem react-rails」を使用して実装しています。
