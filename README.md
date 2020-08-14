@@ -36,20 +36,20 @@ https://www.petitmonte.com/rails-demo/react_crud
 ## 使用技術
 ### ◼️ 言語
 #### バックエンド
-・Ruby 2.5.1
+- Ruby 2.5.1
 #### フロントエンド
-・Javascript
+- Javascript
 
 ### ◼️ フレームワーク
-・Ruby on Rails 6.0.3
+- Ruby on Rails 6.0.3
 
 ### ◼️JSライブラリ
-・React 16.13.1
+- React 16.13.1
 
 ### ◼️データベース
-・MySQL 5.6.43
+- MySQL 5.6.43
 
 ### ◼️その他
-・webpacker 4.2.2
-・bootstrap
-・fetch API内でRailsのCSRFトークンに対応
+- webpacker 4.2.2
+- bootstrap
+- fetch API内でRailsのCSRFトークンに対応
