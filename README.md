@@ -26,6 +26,7 @@ react-railsのgemはアセットパイプラインを利用してJSXをRailsが�
 ## デプロイ先
 サンプルのため、デプロイはしておりません。
 参考にさせていただいたサイトにデモがあるため、以下のURLから確認してください。
+
 【参考サイト】
 https://www.petitmonte.com/ruby/react_crud.html
 
