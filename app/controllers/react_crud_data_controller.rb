@@ -9,6 +9,13 @@ class ReactCrudDataController < ApplicationController
       format.html
       # JSON用
       format.json { render json: @data }
+
+      # JSONは次の形式になる
+      #[
+      #  {"id":1,"name":"テストユーザー"}
+      #  {"id":2,"name":"テストユーザー"}
+      #  {"id":3,"name":"テストユーザー"}
+      #]
     end
   end
 
